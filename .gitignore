@@ -1,3 +1,5 @@
 *.db
 *.xlsx
 *.xls
+*.pbix
+*.pbit
